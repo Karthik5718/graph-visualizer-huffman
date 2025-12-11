@@ -1,3 +1,5 @@
+<mark>Use C++20 and SFML 3.0.1</mark>
+
 A single-file C++ + SFML project that visualizes multiple graph algorithms and Huffman encoding/decoding.
 Includes real-time animations, node/edge highlighting, path reconstruction, and interactive controls.
 
